@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarrosCards</string>
+    <string name="fuel_flex">Flex</string>
+    <string name="fuel_gasoline">Gasolina</string>
+    <string name="fuel_ethanol">Etanol</string>
+    <string name="fuel_invalid">Combustivel inválido</string>
+</resources>
